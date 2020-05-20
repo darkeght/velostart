@@ -14,7 +14,7 @@ using Microsoft.Extensions.Options;
 using velotech.Models;
 
 namespace velotech
-{
+{//comentario
     public class Startup
     {
         public Startup(IConfiguration configuration)
