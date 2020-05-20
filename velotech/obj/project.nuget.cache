@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNbAQtIYNQaVEFLdDF7Gaj0VhqIftqwEakjjv6hLus1HUoB6nrRfA3hGKSW6T+jTTJPeUxOuoA664E3vHZwGXg==",
+  "dgSpecHash": "qigPhsu80OQyQ/jUf+UqjOmMPCM8NyT04UHPWRacEle/hJK5WHMxRNIWaOxU45a6qf87ADy3ORxG8X/yghWosA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conta\\source\\repos\\velotech\\velotech\\velotech.csproj",
+  "projectFilePath": "C:\\Users\\conta\\source\\repos\\VeloStart\\velotech\\velotech.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

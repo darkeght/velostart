@@ -13100,11 +13100,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conta\\source\\repos\\velotech\\velotech\\velotech.csproj",
+      "projectUniqueName": "C:\\Users\\conta\\source\\repos\\VeloStart\\velotech\\velotech.csproj",
       "projectName": "velotech",
-      "projectPath": "C:\\Users\\conta\\source\\repos\\velotech\\velotech\\velotech.csproj",
+      "projectPath": "C:\\Users\\conta\\source\\repos\\VeloStart\\velotech\\velotech.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conta\\source\\repos\\velotech\\velotech\\obj\\",
+      "outputPath": "C:\\Users\\conta\\source\\repos\\VeloStart\\velotech\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
