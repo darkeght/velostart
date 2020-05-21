@@ -1,0 +1,20 @@
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\Properties\serviceDependencies.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\Properties\serviceDependencies.velotech20200520204742 - Web Deploy.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\velotech.deps.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\velotech.runtimeconfig.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\velotech.runtimeconfig.dev.json
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\velotech.dll
+C:\Users\conta\source\repos\VeloStart\velotech\bin\Release\netcoreapp2.2\velotech.pdb
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.AssemblyInfo.cs
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.RazorAssemblyInfo.cache
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.RazorAssemblyInfo.cs
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.RazorTargetAssemblyInfo.cache
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.dll
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.pdb
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.genruntimeconfig.cache
+C:\Users\conta\source\repos\VeloStart\velotech\obj\Release\netcoreapp2.2\velotech.csprojAssemblyReference.cache
